@@ -75,6 +75,10 @@ target은 원시 HTML로 사용
 ![Starbucks](https://confident-hoover-5f75a6.netlify.app/images/starbucks_logo.png)
 
 [![Starbucks](https://confident-hoover-5f75a6.netlify.app/images/starbucks_logo.png)](https://confident-hoover-5f75a6.netlify.app)
+```
+![Starbucks](https://confident-hoover-5f75a6.netlify.app/images/starbucks_logo.png)
+[![Starbucks](https://confident-hoover-5f75a6.netlify.app/images/starbucks_logo.png)](https://confident-hoover-5f75a6.netlify.app)
+```
 
 # 인용문(BlockQuote)
 
